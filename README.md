@@ -1,4 +1,4 @@
 # college-demo
 This is my first Git Repository.
 <br>
-Author- Saksham Gupta
+Author- Saksham (college-demo)
